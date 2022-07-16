@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rik-21
+- 👋 Hi, I’m Rupantar Mondal
 - 👀 I’m interested in  Web Development
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on ...
