@@ -4,15 +4,16 @@
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="I'm Rupantar Mondal">
 
-<p align="center"> 
+<p > 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/rik-21/count.svg" />
 </p>
-<h1 align="center"> I'm <b>Rupantar Mondal</b>
+<h1 > I'm <b>Rupantar Mondal</b>
 </h1>
-<h3 align="center">A passionate self-taught developer from India</h3>
+<h3 >A passionate self-taught developer from India</h3>
 <!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rik-21&label=Profile%20views&color=0e75b6&style=flat" alt="rik-21" /> </p> -->
+<br>
 
 - 🌱 I’m currently learning **Nodejs & React Native**
 
