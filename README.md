@@ -127,5 +127,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rik-21&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rik-21" /></p>
 <br>
-
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rik-21&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rik-21" /></p>
+-->
